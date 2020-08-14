@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "c:\\Users\\alanl\\Documents\\projects\\python\\mailing-client\\venv\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\Users\\alanl\\Documents\\projects\\python\\mailing-client\\venv\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }

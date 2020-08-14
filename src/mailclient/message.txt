@@ -1,0 +1,7 @@
+Hello World!
+
+This is an email sent with Python
+
+Kind regards!
+
+TestRandomCompany Co.

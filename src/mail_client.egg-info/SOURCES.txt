@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/ddostest/__init__.py
+src/mail_client.egg-info/PKG-INFO
+src/mail_client.egg-info/SOURCES.txt
+src/mail_client.egg-info/dependency_links.txt
+src/mail_client.egg-info/entry_points.txt
+src/mail_client.egg-info/not-zip-safe
+src/mail_client.egg-info/requires.txt
+src/mail_client.egg-info/top_level.txt
+src/mailclient/__init__.py
+src/mailclient/subpackage1/__init__.py
+src/mailclient/subpackage1/subpackage1.py
+src/mailclient/subpackage2/__init__.py
+src/mailclient/subpackage2/subpackage2.py
